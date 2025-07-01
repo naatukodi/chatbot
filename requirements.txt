@@ -1,0 +1,5 @@
+langchain>=0.2.0
+langchain-community
+unstructured[local]>=0.7.0
+pdfminer.six>=20221105
+python-docx>=0.8.11
